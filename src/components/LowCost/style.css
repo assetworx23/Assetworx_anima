@@ -1,0 +1,49 @@
+.low-cost {
+  height: 238px;
+  position: relative;
+  width: 423px;
+}
+
+.low-cost .overlap-group-2 {
+  height: 174px;
+  left: 0;
+  position: absolute;
+  top: -18px;
+  width: 422px;
+}
+
+.low-cost .text-wrapper-8 {
+  color: #3a4c6d;
+  font-family: "Mulish", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: 422px;
+}
+
+.low-cost .layer {
+  height: 138px;
+  left: 143px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.low-cost .p {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: -24px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: 471px;
+}

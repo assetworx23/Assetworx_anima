@@ -1,0 +1,1 @@
+export { FiRrGraduationCap } from "./FiRrGraduationCap";

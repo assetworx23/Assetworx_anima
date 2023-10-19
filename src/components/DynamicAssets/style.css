@@ -1,0 +1,49 @@
+.dynamic-assets {
+  height: 229px;
+  position: relative;
+  width: 424px;
+}
+
+.dynamic-assets .overlap-group-4 {
+  height: 181px;
+  left: 46px;
+  position: absolute;
+  top: -20px;
+  width: 332px;
+}
+
+.dynamic-assets .text-wrapper-11 {
+  color: #3a4c6d;
+  font-family: "Mulish", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 332px;
+}
+
+.dynamic-assets .vector-2 {
+  height: 143px;
+  left: 115px;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.dynamic-assets .text-wrapper-12 {
+  color: #3a4c6d;
+  font-family: "Mulish", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 184px;
+  width: 424px;
+}

@@ -1,0 +1,170 @@
+.ipad-navigation-bar {
+  height: 56px;
+  position: relative;
+  width: 1319px;
+}
+
+.ipad-navigation-bar .logo-2 {
+  height: 41px;
+  left: 27px;
+  position: absolute;
+  top: 7px;
+  width: 197px;
+}
+
+.ipad-navigation-bar .search-join-us-log {
+  height: 50px;
+  left: 1042px;
+  position: absolute;
+  top: -1px;
+  width: 252px;
+}
+
+.ipad-navigation-bar .log-in-btn {
+  height: 23px;
+  left: 204px;
+  position: absolute;
+  top: 12px;
+  width: 50px;
+}
+
+.ipad-navigation-bar .text-wrapper-37 {
+  color: #3e3e3e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 48px;
+}
+
+.ipad-navigation-bar .join-us-btn {
+  height: 39px;
+  left: 85px;
+  position: absolute;
+  top: 6px;
+  width: 96px;
+}
+
+.ipad-navigation-bar .overlap-group-7 {
+  background-color: #e0cafc;
+  border-radius: 25px;
+  box-shadow: 0px 4px 10px #e0cafc80;
+  height: 42px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 97px;
+}
+
+.ipad-navigation-bar .text-wrapper-38 {
+  color: #643693;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 62px;
+}
+
+.ipad-navigation-bar .group-13 {
+  height: 20px;
+  left: 40px;
+  position: absolute;
+  top: 15px;
+  width: 20px;
+}
+
+.ipad-navigation-bar .navigation-clean {
+  height: 34px;
+  left: 442px;
+  position: absolute;
+  top: 11px;
+  width: 436px;
+}
+
+.ipad-navigation-bar .group-14 {
+  height: 34px;
+  left: -17px;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.ipad-navigation-bar .overlap-group-8 {
+  height: 34px;
+  position: relative;
+  width: 95px;
+}
+
+.ipad-navigation-bar .text-wrapper-39 {
+  color: #3e3e3e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 86px;
+}
+
+.ipad-navigation-bar .fi-br-angle-small {
+  height: 18px !important;
+  left: 77px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 18px !important;
+}
+
+.ipad-navigation-bar .text-wrapper-40 {
+  color: #3e3e3e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 71px;
+}
+
+.ipad-navigation-bar .text-wrapper-41 {
+  color: #3e3e3e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 249px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 56px;
+}
+
+.ipad-navigation-bar .text-wrapper-42 {
+  color: #3e3e3e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 355px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 81px;
+}

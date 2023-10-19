@@ -1,0 +1,1 @@
+export { IpadBottomBar } from "./IpadBottomBar";

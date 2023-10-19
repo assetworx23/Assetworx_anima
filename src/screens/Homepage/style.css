@@ -1,0 +1,295 @@
+.homepage {
+  background-color: #d1e8f8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.homepage .div-2 {
+  background-color: #d1e8f8;
+  height: 4107px;
+  position: relative;
+  width: 1366px;
+}
+
+.homepage .box {
+  height: 268px;
+  left: 153px;
+  position: absolute;
+  top: 317px;
+  width: 1061px;
+}
+
+.homepage .group-15 {
+  height: 111px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1065px;
+}
+
+.homepage .text-wrapper-43 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 1061px;
+}
+
+.homepage .text-wrapper-44 {
+  color: #3a4c6d;
+  font-family: "Mulish", Helvetica;
+  font-size: 50px;
+  font-weight: 950;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1055px;
+}
+
+.homepage .trending-buttons-instance {
+  left: 249px !important;
+  position: absolute !important;
+  top: 239px !important;
+  width: 564px !important;
+}
+
+.homepage .design-component-instance-node {
+  width: 168px !important;
+}
+
+.homepage .trending-buttons-2 {
+  width: 166px !important;
+}
+
+.homepage .trending-buttons-3 {
+  font-weight: 700 !important;
+  left: 17px !important;
+  width: 133px !important;
+}
+
+.homepage .trending-buttons-4 {
+  left: 199px !important;
+  width: 168px !important;
+}
+
+.homepage .trending-buttons-5 {
+  font-weight: 700 !important;
+  left: 13px !important;
+  width: 139px !important;
+}
+
+.homepage .trending-buttons-6 {
+  left: 398px !important;
+  width: 168px !important;
+}
+
+.homepage .trending-buttons-7 {
+  font-weight: 700 !important;
+  left: 5px !important;
+  width: 155px !important;
+}
+
+.homepage .search-assets-instance {
+  left: 7px !important;
+  position: absolute !important;
+  top: 141px !important;
+}
+
+.homepage .featured-assets-instance {
+  left: 122px !important;
+  position: absolute !important;
+  top: 785px !important;
+}
+
+.homepage .overlap-3 {
+  height: 1099px;
+  left: 0;
+  position: absolute;
+  top: 1700px;
+  width: 1366px;
+}
+
+.homepage .group-16 {
+  height: 1099px;
+  left: 126px;
+  position: absolute;
+  top: 0;
+  width: 1114px;
+}
+
+.homepage .group-17 {
+  height: 164px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1118px;
+}
+
+.homepage .text-wrapper-45 {
+  color: #3a4c6d;
+  font-family: "Mulish", Helvetica;
+  font-size: 50px;
+  font-weight: 950;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 1114px;
+}
+
+.homepage .text-wrapper-46 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 166px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  width: 782px;
+}
+
+.homepage .group-18 {
+  height: 885px;
+  left: 326px;
+  position: absolute;
+  top: 214px;
+  width: 424px;
+}
+
+.homepage .low-cost-instance {
+  left: 1px !important;
+  position: absolute !important;
+  top: 279px !important;
+}
+
+.homepage .everything-in-one-place {
+  left: 1px !important;
+  position: absolute !important;
+  top: 567px !important;
+}
+
+.homepage .dynamic-assets-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.homepage .learn-more-btn-instance {
+  left: 137px !important;
+  position: absolute !important;
+  top: 835px !important;
+}
+
+.homepage .element-no-background {
+  height: 550px;
+  left: 953px;
+  object-fit: cover;
+  position: absolute;
+  top: 203px;
+  width: 413px;
+}
+
+.homepage .group-19 {
+  height: 288px;
+  left: 0;
+  position: absolute;
+  top: 670px;
+  width: 307px;
+}
+
+.homepage .ipad-bottom-bar-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 3861px !important;
+}
+
+.homepage .pricing-instance {
+  left: 3px !important;
+  position: absolute !important;
+  top: 2999px !important;
+}
+
+.homepage .navigation-bar {
+  height: 138px;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 1366px;
+}
+
+.homepage .overlap-4 {
+  height: 4614px;
+  left: -220px;
+  position: relative;
+  top: -220px;
+  width: 1732px;
+}
+
+.homepage .rectangle {
+  background: linear-gradient(
+    180deg,
+    rgb(203.78, 231.98, 252.88) 0%,
+    rgb(136.74, 198.83, 233.75) 99.98%,
+    rgb(69.95, 152.63, 212.5) 99.99%
+  );
+  height: 4462px;
+  left: 220px;
+  position: absolute;
+  top: 152px;
+  width: 1512px;
+}
+
+.homepage .ellipse {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(145.72, 200.45, 241.19) 0%, rgb(197.84, 223.35, 242.25) 100%);
+  border-radius: 220px;
+  filter: blur(500px);
+  height: 440px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.homepage .ellipse-2 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(145.72, 200.45, 241.19) 0%, rgb(197.84, 223.35, 242.25) 100%);
+  border-radius: 220px;
+  filter: blur(500px);
+  height: 440px;
+  left: 256px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.homepage .rectangle-2 {
+  background-color: #d0e8f9;
+  height: 138px;
+  left: 220px;
+  position: absolute;
+  top: 220px;
+  width: 1368px;
+}
+
+.homepage .ipad-navigation-bar-logged-out-clean {
+  left: 243px !important;
+  position: absolute !important;
+  top: 261px !important;
+}

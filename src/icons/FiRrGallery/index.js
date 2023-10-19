@@ -1,0 +1,1 @@
+export { FiRrGallery } from "./FiRrGallery";

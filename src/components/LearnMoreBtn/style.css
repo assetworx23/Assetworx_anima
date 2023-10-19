@@ -1,0 +1,25 @@
+.learn-more-btn {
+  all: unset;
+  background-color: #366c94;
+  border-radius: 44.5px;
+  box-shadow: 0px 3px 20px #356c9480;
+  box-sizing: border-box;
+  height: 50px;
+  position: relative;
+  width: 151px;
+}
+
+.learn-more-btn .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 125px;
+}

@@ -1,0 +1,49 @@
+.everything-in-one {
+  height: 218px;
+  position: relative;
+  width: 423px;
+}
+
+.everything-in-one .overlap-group-3 {
+  height: 176px;
+  left: -32px;
+  position: absolute;
+  top: -18px;
+  width: 487px;
+}
+
+.everything-in-one .text-wrapper-9 {
+  color: #3a4c6d;
+  font-family: "Mulish", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 132px;
+  width: 487px;
+}
+
+.everything-in-one .layer-2 {
+  height: 139px;
+  left: 171px;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.everything-in-one .text-wrapper-10 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: -6px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: 424px;
+}

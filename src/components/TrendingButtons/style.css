@@ -1,0 +1,79 @@
+.trending-buttons {
+  height: 29px;
+  position: relative;
+  width: 454px;
+}
+
+.trending-buttons .group {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: -7px;
+  width: 136px;
+}
+
+.trending-buttons .overlap-group {
+  background-color: #e0cafc;
+  border-radius: 50px;
+  height: 42px;
+  position: relative;
+  width: 134px;
+}
+
+.trending-buttons .text-wrapper {
+  color: #643693;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 107px;
+}
+
+.trending-buttons .overlap-wrapper {
+  height: 42px;
+  left: 160px;
+  position: absolute;
+  top: -7px;
+  width: 136px;
+}
+
+.trending-buttons .div {
+  color: #643693;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 112px;
+}
+
+.trending-buttons .overlap-group-wrapper {
+  height: 42px;
+  left: 320px;
+  position: absolute;
+  top: -7px;
+  width: 136px;
+}
+
+.trending-buttons .text-wrapper-2 {
+  color: #643693;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 125px;
+}

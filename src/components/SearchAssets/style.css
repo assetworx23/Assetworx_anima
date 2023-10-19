@@ -1,0 +1,31 @@
+.search-assets {
+  background-color: #ffffffb2;
+  border: 2px solid;
+  border-color: #51a2ec;
+  border-radius: 51.5px;
+  box-shadow: 0px 4px 20px #366c931a;
+  height: 61px;
+  position: relative;
+  width: 1047px;
+}
+
+.search-assets .text-wrapper-3 {
+  color: #00000080;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 165px;
+}
+
+.search-assets .vector {
+  height: 23px;
+  left: 992px;
+  position: absolute;
+  top: 17px;
+  width: 21px;
+}

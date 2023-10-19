@@ -1,0 +1,225 @@
+.ipad-bottom-bar {
+  background-color: #ffffff;
+  height: 246px;
+  position: relative;
+  width: 1363px;
+}
+
+.ipad-bottom-bar .group-6 {
+  height: 65px;
+  left: 780px;
+  position: absolute;
+  top: 47px;
+  width: 94px;
+}
+
+.ipad-bottom-bar .text-wrapper-14 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.ipad-bottom-bar .text-wrapper-15 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.ipad-bottom-bar .group-7 {
+  height: 147px;
+  left: 432px;
+  position: absolute;
+  top: 47px;
+  width: 181px;
+}
+
+.ipad-bottom-bar .text-wrapper-16 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.ipad-bottom-bar .text-wrapper-17 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.ipad-bottom-bar .text-wrapper-18 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.ipad-bottom-bar .text-wrapper-19 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+
+.ipad-bottom-bar .logo {
+  height: 48px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 247px;
+}
+
+.ipad-bottom-bar .group-8 {
+  height: 144px;
+  left: 1045px;
+  position: absolute;
+  top: 50px;
+  width: 255px;
+}
+
+.ipad-bottom-bar .text-wrapper-20 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.ipad-bottom-bar .facebook {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.ipad-bottom-bar .group-9 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 39px;
+  width: 136px;
+}
+
+.ipad-bottom-bar .text-wrapper-21 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.ipad-bottom-bar .twitter {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.ipad-bottom-bar .group-10 {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 79px;
+  width: 136px;
+}
+
+.ipad-bottom-bar .instagram {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.ipad-bottom-bar .group-wrapper {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 253px;
+}
+
+.ipad-bottom-bar .group-11 {
+  height: 24px;
+  position: relative;
+  width: 255px;
+}
+
+.ipad-bottom-bar .text-wrapper-22 {
+  color: #3a4c6d;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.ipad-bottom-bar .email {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
